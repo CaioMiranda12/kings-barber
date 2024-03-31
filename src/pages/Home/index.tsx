@@ -3,7 +3,6 @@ import Barbearia3 from '../../assets/barbearia3.jpg';
 import Barbearia4 from '../../assets/barbearia4.jpg';
 import Barbearia5 from '../../assets/barbearia5.jpg';
 import Barbearia6 from '../../assets/barbearia6.jpg';
-import Barbearia7 from '../../assets/barbearia7.jpg';
 import KingsLogo from '../../assets/logo-barber-ofc.png';
 import { AboutDialog } from '../../components/about-dialog';
 import { Card } from '../../components/card';
